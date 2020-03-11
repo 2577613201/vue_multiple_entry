@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './entrance/App'
 import router from './router/indexRouter.js'
-
+import 'lib-flexible'
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

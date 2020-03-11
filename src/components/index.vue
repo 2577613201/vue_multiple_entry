@@ -14,3 +14,10 @@ export default {
   }
 }
 </script>
+<style>
+	.hello{
+		width: 375px;
+		height: 100px;
+		background: pink;
+	}
+</style>
